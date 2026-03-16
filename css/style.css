@@ -1,0 +1,14 @@
+.hero {
+  height: 100vh;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+body {
+  background-image: url('../img/mohammad-rahmani-8qEB0fTe9Vw-unsplash.jpg');
+  background-size: cover;
+  background-position: center;
+  color: white;
+}
